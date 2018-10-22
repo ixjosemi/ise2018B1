@@ -1,0 +1,10 @@
+#No copiar ficheros de copia de sguridad
+*.bak
+#Ficheros Objeto
+*.obj
+*.class
+*.lib
+*.o
+
+#Contrasenias
+passwd
